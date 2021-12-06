@@ -1,0 +1,10 @@
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\bin\Debug\EBSUSBPCKontrolTool.exe.config
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\bin\Debug\EBSUSBPCKontrolTool.exe
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\bin\Debug\EBSUSBPCKontrolTool.pdb
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.Form1.resources
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.Properties.Resources.resources
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.exe
+C:\Users\EBS\source\repos\EBSUSBPCKontrolTool\obj\Debug\EBSUSBPCKontrolTool.pdb
